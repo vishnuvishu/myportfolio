@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e9c2f375.chunk.css",
+    "main.js": "/myportfolio/static/js/main.bac16059.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.bac16059.chunk.js.map",
+    "runtime~main.js": "/myportfolio/static/js/runtime~main.513ab627.js",
+    "runtime~main.js.map": "/myportfolio/static/js/runtime~main.513ab627.js.map",
+    "static/css/2.6579a0f2.chunk.css": "/myportfolio/static/css/2.6579a0f2.chunk.css",
+    "static/js/2.609d56eb.chunk.js": "/myportfolio/static/js/2.609d56eb.chunk.js",
+    "static/js/2.609d56eb.chunk.js.map": "/myportfolio/static/js/2.609d56eb.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.be95219935042386738aca52c1d45e8b.js": "/myportfolio/precache-manifest.be95219935042386738aca52c1d45e8b.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/2.6579a0f2.chunk.css.map": "/myportfolio/static/css/2.6579a0f2.chunk.css.map",
+    "static/css/main.e9c2f375.chunk.css.map": "/myportfolio/static/css/main.e9c2f375.chunk.css.map",
+    "static/media/boost-your-post-for-increasing-sales.md": "/myportfolio/static/media/boost-your-post-for-increasing-sales.7c33af2f.md",
+    "static/media/difference-between-gatsbyjs-and-nextjs.md": "/myportfolio/static/media/difference-between-gatsbyjs-and-nextjs.9f553f26.md",
+    "static/media/future-of-javascript.md": "/myportfolio/static/media/future-of-javascript.8cc16894.md",
+    "static/media/how-to-choose-javascript-framework-for-project.md": "/myportfolio/static/media/how-to-choose-javascript-framework-for-project.94fbd384.md",
+    "static/media/how-to-get-10k-instagram-followers.md": "/myportfolio/static/media/how-to-get-10k-instagram-followers.6566a292.md",
+    "static/media/installing-nodejs-on-your-device.md": "/myportfolio/static/media/installing-nodejs-on-your-device.368cc11c.md",
+    "static/media/markdown-html-supported-blog.md": "/myportfolio/static/media/markdown-html-supported-blog.c7fe48e6.md",
+    "static/media/popular-javascript-library-in-2020.md": "/myportfolio/static/media/popular-javascript-library-in-2020.d4881e73.md",
+    "static/media/programmers-must-read-books.md": "/myportfolio/static/media/programmers-must-read-books.d490be27.md",
+    "static/media/slick-theme.css": "/myportfolio/static/media/slick.f97e3bbf.svg",
+    "static/media/think-out-of-the-box.md": "/myportfolio/static/media/think-out-of-the-box.c0c0a9c9.md",
+    "static/media/time-to-use-latest-technology-for-creating-a-website.md": "/myportfolio/static/media/time-to-use-latest-technology-for-creating-a-website.ea70d882.md",
+    "static/media/trending-designs-in-2020.md": "/myportfolio/static/media/trending-designs-in-2020.8e1efcf2.md",
+    "static/media/uiux-design-starter-with-adobe-xd.md": "/myportfolio/static/media/uiux-design-starter-with-adobe-xd.c7973cd5.md",
+    "static/media/web-automation-with-python-language.md": "/myportfolio/static/media/web-automation-with-python-language.a1c7c37f.md",
+    "static/media/what-nodejs-can-do.md": "/myportfolio/static/media/what-nodejs-can-do.40686a4e.md"
+  }
+}
